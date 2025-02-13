@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     backgroundColor: '#EDE7F6',
     paddingVertical: 10,
-    paddingHorizontal: 20,
+    paddingHorizontal: 25,
     borderRadius: 20,
   },
   icon: {
