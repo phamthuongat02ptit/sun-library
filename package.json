@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "Thuongpv",
+  "keywords": ["sunhouse", "thuongpv", "ptpm"],
+  "author": "THUONGPV",
   "license":"MIT",
   "peerDependencies": {
     "react-native": "^0.77.0"
