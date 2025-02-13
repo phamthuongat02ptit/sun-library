@@ -1,0 +1,15 @@
+{
+  "name": "sun-library",
+  "version": "1.0.0",
+  "description": "Library for Sunhouse application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Thuongpv",
+  "license":"MIT",
+  "peerDependencies": {
+    "react-native": "^0.77.0"
+  }
+}
