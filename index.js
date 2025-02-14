@@ -1,3 +1,3 @@
-import IconButton from './src/IconButton';
+import IconButton from './src/components/IconButton';
 
 export { IconButton };
